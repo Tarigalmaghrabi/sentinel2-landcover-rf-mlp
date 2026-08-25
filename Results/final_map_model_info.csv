@@ -1,0 +1,2 @@
+Selected Model,Configuration,Feature Set,Hold-out Macro F1,Hold-out Accuracy,Training Samples,Scene Pixels Classified
+Random Forest,Random Forest — 200 trees,Raw bands + indices,0.997197305894581,0.9971973094170403,8920,120560400

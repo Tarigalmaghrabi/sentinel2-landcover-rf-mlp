@@ -1,0 +1,5 @@
+Model,Feature Set,Mean CV F1
+Random Forest,Raw bands,0.9969177688166614
+Random Forest,Raw bands + indices,0.9969179266687688
+MLP_4,Raw bands + indices,0.9949565032269827
+MLP_4,Raw bands,0.9913094189806074
