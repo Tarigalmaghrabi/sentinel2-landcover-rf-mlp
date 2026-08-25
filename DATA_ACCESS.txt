@@ -1,0 +1,8 @@
+The prepared Sentinel-2 bands used for offline execution of the notebook are available from the following Google Drive folder:
+
+Download Sentinel-2 Offline Data:
+https://drive.google.com/drive/folders/1UYHLm7uBJ0PcPLlksuhFyYFTJbX6J0-U?usp=drive_link
+
+The folder contains the Sentinel-2 input bands required by the classification workflow.
+
+These files allow the notebook to be executed in offline mode without downloading the Sentinel-2 product again from the Copernicus Data Space Ecosystem.
