@@ -313,3 +313,8 @@ engineering, cross-validation, held-out evaluation, full-scene classification, l
 and final results.
 
 END OF USER MANUAL
+## Input Data
+
+Prepared Sentinel-2 bands for offline execution are available here:
+
+[Download Sentinel-2 Offline Data](https://drive.google.com/drive/folders/1UYHLm7uBJ0PcPLlksuhFyYFTJbX6J0-U?usp=drive_link)
